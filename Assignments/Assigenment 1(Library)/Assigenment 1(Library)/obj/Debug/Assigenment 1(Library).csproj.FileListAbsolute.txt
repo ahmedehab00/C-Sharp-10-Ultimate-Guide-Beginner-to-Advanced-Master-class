@@ -1,0 +1,8 @@
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\obj\Debug\Assigenment 1(Library).csproj.AssemblyReference.cache
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\obj\Debug\Assigenment 1(Library).csproj.SuggestedBindingRedirects.cache
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\obj\Debug\Assigenment 1(Library).csproj.CoreCompileInputs.cache
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\bin\Debug\Assigenment 1(Library).exe.config
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\bin\Debug\Assigenment 1(Library).exe
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\bin\Debug\Assigenment 1(Library).pdb
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\obj\Debug\Assigenment 1(Library).exe
+D:\New folder\Assigenment 1(Library)\Assigenment 1(Library)\obj\Debug\Assigenment 1(Library).pdb

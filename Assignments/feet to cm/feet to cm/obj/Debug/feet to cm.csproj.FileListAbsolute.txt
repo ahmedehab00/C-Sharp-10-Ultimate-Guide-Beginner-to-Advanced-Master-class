@@ -1,0 +1,8 @@
+D:\New folder\feet to cm\feet to cm\bin\Debug\feet to cm.exe.config
+D:\New folder\feet to cm\feet to cm\bin\Debug\feet to cm.exe
+D:\New folder\feet to cm\feet to cm\bin\Debug\feet to cm.pdb
+D:\New folder\feet to cm\feet to cm\obj\Debug\feet to cm.csproj.AssemblyReference.cache
+D:\New folder\feet to cm\feet to cm\obj\Debug\feet to cm.csproj.SuggestedBindingRedirects.cache
+D:\New folder\feet to cm\feet to cm\obj\Debug\feet to cm.csproj.CoreCompileInputs.cache
+D:\New folder\feet to cm\feet to cm\obj\Debug\feet to cm.exe
+D:\New folder\feet to cm\feet to cm\obj\Debug\feet to cm.pdb

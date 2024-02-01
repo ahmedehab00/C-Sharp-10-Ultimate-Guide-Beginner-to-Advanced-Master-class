@@ -1,0 +1,8 @@
+D:\New folder\Data Making With String\Data Making With String\bin\Debug\Data Making With String.exe.config
+D:\New folder\Data Making With String\Data Making With String\bin\Debug\Data Making With String.exe
+D:\New folder\Data Making With String\Data Making With String\bin\Debug\Data Making With String.pdb
+D:\New folder\Data Making With String\Data Making With String\obj\Debug\Data Making With String.csproj.AssemblyReference.cache
+D:\New folder\Data Making With String\Data Making With String\obj\Debug\Data Making With String.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Data Making With String\Data Making With String\obj\Debug\Data Making With String.csproj.CoreCompileInputs.cache
+D:\New folder\Data Making With String\Data Making With String\obj\Debug\Data Making With String.exe
+D:\New folder\Data Making With String\Data Making With String\obj\Debug\Data Making With String.pdb

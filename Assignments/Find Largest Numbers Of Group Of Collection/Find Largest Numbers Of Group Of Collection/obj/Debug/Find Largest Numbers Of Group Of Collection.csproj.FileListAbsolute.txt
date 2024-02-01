@@ -1,0 +1,8 @@
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\bin\Debug\Find Largest Numbers Of Group Of Collection.exe.config
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\bin\Debug\Find Largest Numbers Of Group Of Collection.exe
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\bin\Debug\Find Largest Numbers Of Group Of Collection.pdb
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\obj\Debug\Find Largest Numbers Of Group Of Collection.csproj.AssemblyReference.cache
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\obj\Debug\Find Largest Numbers Of Group Of Collection.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\obj\Debug\Find Largest Numbers Of Group Of Collection.csproj.CoreCompileInputs.cache
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\obj\Debug\Find Largest Numbers Of Group Of Collection.exe
+D:\New folder\Find Largest Numbers Of Group Of Collection\Find Largest Numbers Of Group Of Collection\obj\Debug\Find Largest Numbers Of Group Of Collection.pdb
